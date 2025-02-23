@@ -855,8 +855,8 @@ video {
   background-color: rgb(55 65 81 / var(--tw-bg-opacity));
 }
 
-.bg-\[url\(\'\.\.\/src\/img\/landing-bg\.png\'\)\] {
-  background-image: url('../src/img/landing-bg.png');
+.bg-\[url\(\'img\/landing-bg\.png\'\)\] {
+  background-image: url('img/landing-bg.png');
 }
 
 .bg-cover {
